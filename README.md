@@ -55,7 +55,7 @@ Here’s a simple wiring diagram to help you connect the components:
   - Out3 → Motor 2 (+)
   - Out4 → Motor 2 (-)
 
-![Circuit Diagram](circuit-diagram/diagram.png)
+![Circuit Diagram](bc73a4459ed72e0fd610fc38d6ad5bac41d54028_2_690x410.jpeg)
 
 ---
 
